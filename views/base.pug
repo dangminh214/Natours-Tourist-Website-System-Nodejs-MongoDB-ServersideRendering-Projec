@@ -1,0 +1,31 @@
+doctype html
+html(lang="en") 
+    head 
+        meta(charset="UTF-8") 
+        meta(name='viewport' content='width=device-width, initial-scale=1.0') 
+        //- title Natours | #{tour}     
+        //- the value of tour will be assigned here     
+        link(rel = 'stylesheet' href='/css/style.css')
+        link(rel = 'shortcut icon' type="/image/png" href='/img/favicon.png')
+        link(rel = 'stylesheer' href='https://fonts.googleapis.com/css?family=Lato:300,300i,700')
+        title Natours | #{title}
+
+    body    
+        //- h1= tour    
+        //- assgin h1 is equal to variable tour, from app.js, middleware .get function
+        //- h2= user.toUpperCase()
+        //- like h1, take the value of user from middleware and using simple javascript here
+        //- h1 The Park Camper 
+        //- -const x = 9 ;
+        //- h2= 2*x 
+        //- p This is a text 
+        // HEADER
+        include _header
+
+        // CONTENT
+        block content   
+            //- using as a template
+            h1 This is a placeholder heading
+
+        // FOOTER
+        include _footer
