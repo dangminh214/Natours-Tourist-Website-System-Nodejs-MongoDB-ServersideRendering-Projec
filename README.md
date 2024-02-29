@@ -1,4 +1,4 @@
-# A Projet which  I study about and I do in the time I study this project
+# An Udemy Project using MongoDB as well as PUG and server side rendering
 # Source: Udemy
 
 ## Chapter 12: 
