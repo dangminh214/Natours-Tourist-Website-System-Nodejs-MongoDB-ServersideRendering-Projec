@@ -1,4 +1,6 @@
-# An Udemy Project using MongoDB as well as PUG and server side rendering
+# A Project using MongoDB as well as PUG and server side rendering. In this project, MongoDB and Nodejs will be used as main method/framework to create this "Natours" Website, a Website for tourists with many Tours.
+# At the beginning, all the datas are saved as JSON File and my mission is bring them as backend data for the project, otherwise these websites use Server side rendering.
+# All the tour data, review data and user data of course are saved in MongoDB
 # Source: Udemy
 
 ## Chapter 12: 
