@@ -17,7 +17,8 @@
 #### The tour has reviews from many people, we can see all using the scroll bar
 ![image](https://github.com/dangminh214/Nodejs-MongoDB-Udemy-Project-create-a-website-for-tours/assets/51837721/64be9790-2562-4a51-8c67-e7ef62a71878)
 #### Footer of the page: 
-![image](https://github.com/dangminh214/Nodejs-MongoDB-Udemy-Project-create-a-website-for-tours/assets/51837721/fdd0db74-3ab1-4987-b9aa-c8a2dc6829c5)
+![image](https://github.com/dangminh214/Nodejs-MongoDB-Udemy-Project-create-a-website-for-tours/assets/51837721/37ef20f6-f3cc-4310-a645-f15233cd6a63)
+
 
 
 
