@@ -1,6 +1,12 @@
 extend base
 include _reviewCard
 
+block append head   
+    //- this content will be added to the block head in the files, which have block head
+    //- script(src='/js/mapbox.js')
+    script(src='https://api.mapbox.com/mapbox-gl-js/v0.54.0/mapbox-gl.js')
+    link(href='https://api.mapbox.com/mapbox-gl-js/v0.54.0/mapbox-gl.css' rel='stylesheet')
+
 mixin overviewBox(label, text, icon)
     .overview-box__detail
         svg.overview-box__icon
@@ -65,7 +71,8 @@ block content
                 img.picture-box__img.picture-box__img--1(src=`/img/tours/${img}`, alt=`The Park Camper Tour ${i+1}`, class=`picture-box__img--${i+1}`)
 
     section.section-map
-        #map(data-locations=`${JSON.stringify(tour.locations)}`)
+        #map(data-locations=`${JSON.stringify(tour.locations)}`)    
+        //- will be passed into data-set location
 
     section.section-reviews
         .reviews
