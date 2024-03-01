@@ -21,6 +21,11 @@
 #### Footer of the page: 
 ![image](https://github.com/dangminh214/Nodejs-MongoDB-Udemy-Project-create-a-website-for-tours/assets/51837721/37ef20f6-f3cc-4310-a645-f15233cd6a63)
 
+#### Frontend property: create a map (using Mapbox, you can see it on google). This map can be used such as zoom in zoom out and move but I have disabled it so as just an image, but shows all locations per day of a tour
+![image](https://github.com/dangminh214/Natours-Tourist-Website-System-Nodejs-MongoDB-ServersideRendering-Projec/assets/51837721/fa4f269d-4a7b-42c2-842e-49ad5dc2bb57)
+
+
+
 
 
 
