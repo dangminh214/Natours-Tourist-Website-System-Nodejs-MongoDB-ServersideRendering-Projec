@@ -24,6 +24,16 @@
 #### Frontend property: create a map (using Mapbox, you can see it on google). This map can be used such as zoom in zoom out but I have disabled it so as just an image (but you can still drag to move it), but shows all locations per day of a tour
 ![image](https://github.com/dangminh214/Natours-Tourist-Website-System-Nodejs-MongoDB-ServersideRendering-Projec/assets/51837721/fa4f269d-4a7b-42c2-842e-49ad5dc2bb57)
 
+#### Authentication and login page: 
+when you login successfully: 
+![image](https://github.com/dangminh214/Natours-Tourist-Website-System-Nodejs-MongoDB-ServersideRendering-Projec/assets/51837721/a4ca5f2b-9400-457b-92ed-88fcad04ca72)
+when you do an unsuccessfully login 
+![image](https://github.com/dangminh214/Natours-Tourist-Website-System-Nodejs-MongoDB-ServersideRendering-Projec/assets/51837721/08da3e0b-5f20-4855-89b7-9913ef65ed3a)
+from now, you can only see the tour detail when you logged in, the browser will use your cookies to check then authentication
+
+
+
+
 
 
 
