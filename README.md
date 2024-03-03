@@ -29,6 +29,9 @@ when you login successfully:
 ![image](https://github.com/dangminh214/Natours-Tourist-Website-System-Nodejs-MongoDB-ServersideRendering-Projec/assets/51837721/a4ca5f2b-9400-457b-92ed-88fcad04ca72)
 when you do an unsuccessfully login 
 ![image](https://github.com/dangminh214/Natours-Tourist-Website-System-Nodejs-MongoDB-ServersideRendering-Projec/assets/51837721/08da3e0b-5f20-4855-89b7-9913ef65ed3a)
+if you havent't logged in but you want to see tour details: 
+![image](https://github.com/dangminh214/Natours-Tourist-Website-System-Nodejs-MongoDB-ServersideRendering-Projec/assets/51837721/7ec92d95-6798-4b2b-a731-25e145593fa8)
+
 from now, you can only see the tour detail when you logged in, the browser will use your cookies to check then authentication
 
 
